@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "rating":9.8,
+    "name": "Virat Kohli",
+    "country": "India",
+    "type": "Batsman",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm medium",
+    "price": 150,
+    "img": "https://i.ibb.co/XT1Rchz/Virat-Kohli-India-celebrates-50th-century-Cricket-November-15-2023.webp"
+  },
+  {
+    "id": 2,
+    "rating":9.7,
+    "name": "Babar Azam",
+    "country": "Pakistan",
+    "type": "Batsman",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "price": 12000,
+    "img": "https://i.ibb.co/pjvWv5By/download.webp"
+  },
+  {
+    "id": 3,
+    "rating":9.5,
+    "name": "Joe Root",
+    "country": "England",
+    "type": "Batsman",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "price": 11000,
+    "img": "https://i.ibb.co/NdNQc7m0/OIP.webp"
+  },
+  {
+    "id": 4,
+    "rating":9.5,
+    "name": "Kane Williamson",
+    "country": "New Zealand",
+    "type": "Batsman",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "price": 11500,
+    "img": "https://i.ibb.co/dYn656P/download-1.webp"
+  },
+  {
+    "id": 5,
+    "rating":9.8,
+    "name": "Ben Stokes",
+    "country": "England",
+    "type": "All-rounder",
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Right-arm fast-medium",
+    "price": 13000,
+    "img": "https://i.ibb.co/dYn656P/download-1.webp"
+  },
+  {
+    "id": 6,
+    "rating":9.9,
+    "name": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "type": "All-rounder",
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Slow left-arm orthodox",
+    "price": 1250000,
+    "img": "https://i.ibb.co/dYn656P/download-1.webp"
+  },
+  {
+    "id": 7,
+    "rating":9.8,
+    "name": "Rashid Khan",
+    "country": "Afghanistan",
+    "type": "Bowler",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Legbreak googly",
+    "price": 14000,
+    "img": "https://i.ibb.co/dYn656P/download-1.webp"
+  },
+  {
+    "id": 8,
+    "rating":9.8,
+    "name": "Jasprit Bumrah",
+    "country": "India",
+    "type": "Bowler",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm fast",
+    "price": 1350,
+    "img": "https://i.ibb.co/dYn656P/download-1.webp"
+  },
+  {
+    "id": 9,
+    "rating":9.8,
+    "name": "David Warner",
+    "country": "Australia",
+    "type": "Batsman",
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Right-arm legbreak",
+    "price": 1000,
+    "img": "https://i.ibb.co/dYn656P/download-1.webp"
+  },
+  {
+    "id": 10,
+    "rating":9.8,
+    "name": "Quinton de Kock",
+    "country": "South Africa",
+    "type": "Wicketkeeper",
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "None",
+    "price": 10500,
+    "img": "https://i.ibb.co/dYn656P/download-1.webp"
+  }
+]
