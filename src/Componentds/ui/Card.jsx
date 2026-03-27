@@ -13,10 +13,10 @@ const Card = ({ player ,setCoin,coin,setSelectedPlayers,selectedPlayers}) => {
       setCoin(coin - player.price);
       
     } else {
-      toast("Not enough coin to purchase this player");
+      toast.warn("Not enough coin to purchase this player");
       return;
     }
-    toast(`${player.name} is selected`  );
+    toast.success(`${player.name} is selected`  );
     setIsSelected(true);
     setSelectedPlayers([...selectedPlayers,player])
 
@@ -26,7 +26,7 @@ const Card = ({ player ,setCoin,coin,setSelectedPlayers,selectedPlayers}) => {
        <div className="card bg-base-100 w-full shadow-sm">
      <figure>
        <img
-         src={player?.img} alt='player.name' />
+          src={player?.img} alt='player.name'  />
      </figure>
      <div className="card-body">
              <h2 className="card-title"><FaUser />
